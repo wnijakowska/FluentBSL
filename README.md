@@ -10,7 +10,7 @@ React Native CLI Quickstart,
 Development OS -> Windows,
 Target OS -> Android
 
-For external node_modules that could be missing:
+For external node_modules that are missing in the frontend:
  - cd FluentBSL
  - npm install
  - npm install @react-navigation/stack
@@ -40,7 +40,7 @@ Lesson.tsx - Line 60, Line 181
 # Backend Setup
 
 The backend uses Express, and it will have to be ran alongside the frontend. Node.js must be installed on your device.
-For external node_modules that could be missing:
+node modules for the backend have been uploaded, however some could be missing still:
  - cd FluentBSL/backend/src
  - npm install
  - npm install typescript
